@@ -44,4 +44,8 @@ Soy estudiante de **Ingeniería de Sistemas**, apasionado por la tecnología, el
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhiandq&layout=compact&theme=dark)
 
+---
+## 🌎 Idiomas
+Español: Nativo 🇪🇸
 
+Inglés: Intermedio  🇺🇸
