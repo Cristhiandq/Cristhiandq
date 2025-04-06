@@ -49,3 +49,5 @@ Soy estudiante de **Ingeniería de Sistemas**, apasionado por la tecnología, el
 Español: Nativo 🇪🇸
 
 Inglés: Intermedio  🇺🇸
+
+# ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFpN25kemYzMjZjZWloMXR1OGZnOHZhcmhic2w4dnEyeHZsNWxqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq0AdcQXKQ7yIH6/giphy.gif)
