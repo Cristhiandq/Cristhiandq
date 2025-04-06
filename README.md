@@ -1,4 +1,4 @@
-## Holaa!! Bienvenid@s a mi espacio en GitHub 👋🌐 
+## Holaa!! Bienvenid@s es grato tenerlos aqui!! 👋 
 
 # ![](sss.png) 
 
@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ](https://www.youtube.com/@cristhiandq94)
+
 👩‍💻 ¡Mi nombre es Cristhian! 🚀
 
 Soy estudiante de **Ingeniería de Sistemas**, apasionado por la tecnología, el desarrollo de software y la resolución creativa de problemas. Aquí encontrarás algunos de los proyectos, experimentos y retos que forman parte de mi viaje como futuro ingeniero 💻✨
@@ -44,4 +45,3 @@ Soy estudiante de **Ingeniería de Sistemas**, apasionado por la tecnología, el
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhiandq&layout=compact&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhiandq&hide_progress=true)
